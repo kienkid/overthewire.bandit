@@ -1,0 +1,2 @@
+cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
+ssh with the 'bash --norc' in the end of the command to ignore the rc file

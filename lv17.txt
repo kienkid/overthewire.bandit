@@ -1,0 +1,2 @@
+EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
+nmap scan with -sV or --script ssl-cert to check which port have ssl. there will be 2 port => just select one and openssl s_client -quiet + localhost:port to gather the ssh private key of the bandit17. after put the private key in your computer as chmod 700 txt file and then ssh to the user bandit17 on port 2220. after that cd to etc/bandit_pass and read the password for bandit17 for your password

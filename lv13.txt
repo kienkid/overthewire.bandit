@@ -1,0 +1,3 @@
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+create a temp folder and copy (cp) the data.txt into it => using xxd to decrypt the file from Hexdump to normal file => file that created file to see is a gzip file => unzip with gzip -d to bzip2 file => unzip with bzip2 -d => get a tar file and unzip it with tar -xvf => keep receiving gz/bz2/tar file => keep doing it until receive a ASCII text and then cat it
+some time need to use mv to change the file name into .gz/.bz2/.tar

@@ -1,0 +1,2 @@
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+just connect to local host port 30001 with the SSL encryption by command openssl s_client localhost:30001 because the s_server already on

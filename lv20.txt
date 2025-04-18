@@ -1,0 +1,2 @@
+0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+using ./bandit20-do + command to apply the setuid flag to run the command cat on the password file

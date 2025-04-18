@@ -1,0 +1,2 @@
+tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
+a task scheduler is running (cron) go and cat to the /etc/cron.d/cronjob_bandit22 to see what command it doing => it running a bash file on daily and then cd to that bash file (.sh) and read it -> it chmod a file in tmp folder to be readable => that will be the password

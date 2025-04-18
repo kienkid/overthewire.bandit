@@ -1,0 +1,2 @@
+0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
+read the cronjob_bandit23.sh to see what is does=> it just take the in put as user bandit22 and hash it to paste the password to that /tmp/hashoutput => run the command in the bash file but change the user to bandit23 to gather the tmp file that contain the password

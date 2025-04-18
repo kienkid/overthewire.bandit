@@ -1,0 +1,2 @@
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+sort -d data.txt | uniq -u to find the unique one (need to sort first)

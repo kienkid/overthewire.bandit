@@ -1,0 +1,2 @@
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+there already listen on port 30000 => netcat to it with localhost and enter the level 14 password

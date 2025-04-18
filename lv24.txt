@@ -1,0 +1,2 @@
+gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
+read the cronjob 24 => the scrip is execute and remove any file in the var/spool/user/foo folder with that user privilege => create a bash script that copy the password file from etc/bandit_pass/bandit24 to a temporary file, chmod both folder and file to 777 => cp the script into the foo folder and wait it execute our script
